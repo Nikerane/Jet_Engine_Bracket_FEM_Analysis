@@ -1,2 +1,2 @@
-# Jet_Engine_Bracket_FEM_Analysis
+# FEM_Analysis
 Jet Engine Bracket FEM Analysis
